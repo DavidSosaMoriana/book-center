@@ -11,3 +11,9 @@
 .header-title {
     font-size: 40px;
 }
+
+.header-text {
+    margin-bottom: 2.8rem;
+    opacity: 0.9;
+    max-width: 770px;
+}
