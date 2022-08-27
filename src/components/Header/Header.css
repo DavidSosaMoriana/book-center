@@ -1,9 +1,13 @@
 .header-content {
-    min-height: 75vh;
+    min-height: 90vh;
     background: linear-gradient(
             rgba(120, 35, 159, 0.4),
             rgba(120, 35, 159, 0.6)
         ),
         url('../../images/reading-c3.jpg') center/cover no-repeat;
     flex-direction: column;
+}
+
+.header-title {
+    font-size: 40px;
 }
