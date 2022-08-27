@@ -13,12 +13,10 @@ const Header = () => {
                         Find your next story
                     </h2>
                     <br />
-                    <p className="header-text fs-18 fw-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing alit.
-                        Quam beatan sapiente quibusdam consequatur perspiciatis
-                        facere laboriosum non nasciunt at id repudiandos, medi
-                        iste?
-                    </p>
+                    <blockquote className="header-text fs-18 fw-3">
+                        "A room without books is like a body without a soul." 
+                        <span>- Marcus Tullius Cicero</span>
+                    </blockquote>
                     <SearchForm />
                 </div>
             </header>

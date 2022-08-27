@@ -159,7 +159,7 @@ input {
 .ls-2 {
     letter-spacing: 2px;
 }
-
+/* display */
 .flex {
     display: flex;
     align-items: center;
