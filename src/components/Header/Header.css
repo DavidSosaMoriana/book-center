@@ -1,5 +1,9 @@
 .header-content {
-  min-height: 75vh;
-  background: linear-gradient(rgba(120, 35, 159, 0.4), rgba(120, 35, 159, 0.6)), url('../../images/reading-c1.jpg') center/cover no-repeat;
-  flex-direction: column;
+    min-height: 75vh;
+    background: linear-gradient(
+            rgba(120, 35, 159, 0.4),
+            rgba(120, 35, 159, 0.6)
+        ),
+        url('../../images/reading-c3.jpg') center/cover no-repeat;
+    flex-direction: column;
 }
