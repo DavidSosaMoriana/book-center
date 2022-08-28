@@ -1,7 +1,6 @@
-loader {
+.loader{
   padding: 4rem 0;
 }
-
-loader img {
+.loader img{
   width: 120px;
 }
